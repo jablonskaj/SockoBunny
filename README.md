@@ -15,7 +15,7 @@ Level is passed when each barrel is on the storage (carrot) location.
 While starting the game there is a menu view, where user can select options using arrows (↑/↓).   
 To turn on/off the sound use (→/←).   
 The game consists of 4 levels.   
-It is neccessery to pass lower level to start the higher one.   
+It is neccessary to pass lower level to start the higher one.   
 To reset the level/board you should press _r_.
 To close the game you should press the _ESC_ button or click the closing icon (_x_).
 
